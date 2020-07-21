@@ -1,4 +1,4 @@
-### Hi. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+### Hi. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px">
 
 [![Mail Badge](https://img.shields.io/badge/-eray_chumak@protonmail.com-8B89CC?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:eray_chumak@protonmail.com)](mailto:eray_chumak@protonmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Eray%20Chumak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eray-c-192759171/)](https://www.linkedin.com/in/eray-c-192759171//)
@@ -10,8 +10,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="20"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img height="20" src="https://avatars2.githubusercontent.com/u/1335026?s=200&v=4">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=eraychumak&show_icons=true)
-
-[![HitCount](http://hits.dwyl.com/eraychumak/eraychumak.svg)](http://hits.dwyl.com/eraychumak/eraychumak)
 
 ### Tools 🛠️
 
