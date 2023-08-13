@@ -14,7 +14,7 @@
           Whether it's collaborating on exciting projects or simply
           exchanging greetings, I'm actively seeking new opportunities
           to contribute. Feel free to connect with me via email at
-          eraychumak_@outlook.com.
+          <a href="mailto:eraychumak_@outlook.com">eraychumak_@outlook.com</a>.
         </p>
         <p></p>
       </td>
