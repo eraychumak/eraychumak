@@ -1,11 +1,11 @@
-![personal logo](./assets/logo.png)
-
-Hello 👋
-
 <table>
   <tbody>
     <tr>
       <td>
+        <p></p>
+        <img src="./assets/logo.png" alt="personal logo">
+        <p></p>
+        <p>Hello 👋</p>
         <p>
           I am a Frontend Developer driven by the following set of values:
           honesty, resilience transparency, and curiousity.
@@ -16,6 +16,7 @@ Hello 👋
           to contribute. Feel free to connect with me via email at
           eraychumak_@outlook.com.
         </p>
+        <p></p>
       </td>
       <td rowspan="2">
         <figure>
