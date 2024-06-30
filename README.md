@@ -7,14 +7,11 @@
         <p></p>
         <p>Hello 👋</p>
         <p>
-          I am a Frontend Developer driven by the following set of values:
-          honesty, resilience transparency, and curiousity.
-        </p>
-        <p>
-          Whether it's collaborating on exciting projects or simply
-          exchanging greetings, I'm actively seeking new opportunities
-          to contribute. Feel free to connect with me via email at
-          <a href="mailto:eraychumak_@outlook.com">eraychumak_@outlook.com</a>.
+          I am a developer driven by the following set of values:
+          honesty, resilience transparency, and curiousity. Feel
+          free to connect with me via email at
+          <a href="mailto:eraychumak_@outlook.com">eraychumak_@outlook.com</a> or
+          see the links below for more information.
         </p>
         <p></p>
       </td>
