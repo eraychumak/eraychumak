@@ -3,7 +3,7 @@
     <tr>
       <td>
         <p></p>
-        <img src="./assets/logo.png" alt="personal logo">
+        <img src="./assets/logo.png" alt="personal logo" width="32px">
         <p></p>
         <p>Hello 👋</p>
         <p>
